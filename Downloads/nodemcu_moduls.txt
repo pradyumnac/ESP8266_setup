@@ -1,0 +1,1 @@
+adc, adxl345, bme280, crypto, dht, encoder, file, gpio, http, i2c, mqtt, net, node, pwm, rtcmem, rtctime, spi, tmr, uart, wifi, ws2812.
